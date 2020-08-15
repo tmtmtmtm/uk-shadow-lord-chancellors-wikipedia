@@ -20,6 +20,52 @@
   },
   {
     "item": {
+      "value": "Q7926162",
+      "label": "Victor Mishcon, Baron Mishcon"
+    },
+    "replaces": {
+      "value": "Q332851",
+      "label": "Frederick Elwyn Jones, Baron Elwyn-Jones"
+    },
+    "replacedBy": {
+      "value": "Q337121",
+      "label": "Derry Irvine, Baron Irvine of Lairg"
+    },
+    "start": {
+      "value": "1989-01-09T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1992-07-18T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q7926162$3D6A7EF7-BA6B-4024-B8EB-2E54931A0874"
+  },
+  {
+    "item": {
+      "value": "Q337121",
+      "label": "Derry Irvine, Baron Irvine of Lairg"
+    },
+    "replaces": {
+      "value": "Q7926162",
+      "label": "Victor Mishcon, Baron Mishcon"
+    },
+    "replacedBy": {
+      "value": "Q336480",
+      "label": "James Mackay, Baron Mackay of Clashfern"
+    },
+    "start": {
+      "value": "1992-06-18T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1997-05-02T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q337121$79175AC2-E03C-48B6-8CF3-036D83662D32"
+  },
+  {
+    "item": {
       "value": "Q336480",
       "label": "James Mackay, Baron Mackay of Clashfern"
     },
@@ -40,6 +86,29 @@
       "precision": "11"
     },
     "statement": "Q336480$0FA15EDC-CFEC-4681-860A-801BBA147086"
+  },
+  {
+    "item": {
+      "value": "Q336472",
+      "label": "Christopher Prout, Baron Kingsland"
+    },
+    "replaces": {
+      "value": "Q336480",
+      "label": "James Mackay, Baron Mackay of Clashfern"
+    },
+    "replacedBy": {
+      "value": "Q311278",
+      "label": "Jack Straw"
+    },
+    "start": {
+      "value": "1997-06-11T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2009-07-12T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q336472$643F2872-F56B-46A3-B01A-77EFA9867311"
   },
   {
     "item": {
@@ -69,6 +138,14 @@
       "value": "Q334155",
       "label": "Sadiq Khan"
     },
+    "replaces": {
+      "value": "Q311278",
+      "label": "Jack Straw"
+    },
+    "replacedBy": {
+      "value": "Q337117",
+      "label": "Charles Falconer, Baron Falconer of Thoroton"
+    },
     "start": {
       "value": "2010-10-08T00:00:00Z",
       "precision": "11"
@@ -88,10 +165,56 @@
       "value": "Q334155",
       "label": "Sadiq Khan"
     },
+    "replacedBy": {
+      "value": "Q19871710",
+      "label": "Richard Burgon"
+    },
     "start": {
       "value": "2015-05-11T00:00:00Z",
       "precision": "11"
     },
+    "end": {
+      "value": "2016-06-26T00:00:00Z",
+      "precision": "11"
+    },
     "statement": "Q337117$B1187E15-1287-435F-B138-10B49234A315"
+  },
+  {
+    "item": {
+      "value": "Q19871710",
+      "label": "Richard Burgon"
+    },
+    "replaces": {
+      "value": "Q337117",
+      "label": "Charles Falconer, Baron Falconer of Thoroton"
+    },
+    "replacedBy": {
+      "value": "Q534727",
+      "label": "David Lammy"
+    },
+    "start": {
+      "value": "2016-06-27T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2020-04-05T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q19871710$8DF6BBF2-7CFC-479E-85E1-6CA79FE2145D"
+  },
+  {
+    "item": {
+      "value": "Q534727",
+      "label": "David Lammy"
+    },
+    "replaces": {
+      "value": "Q19871710",
+      "label": "Richard Burgon"
+    },
+    "start": {
+      "value": "2020-04-06T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q534727$542EF77A-E5F9-4289-8B4F-D6ED1ECABB92"
   }
 ]
