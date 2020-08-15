@@ -70,4 +70,4 @@ Step 8: Refresh the Tracking Page
 ==================================
 
 New version at
-
+https://www.wikidata.org/w/index.php?title=Talk:Q7460545&oldid=1257390679
